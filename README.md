@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @triciappa
 - 👀 I’m interested in cibersecurity and cloud technology
-- 🌱 I’m currently learning how to use GitHub
+- 🌱 I’m currently learning how to use phyton
 
 
 <!---
